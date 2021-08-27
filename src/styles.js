@@ -22,6 +22,7 @@ export const Wrapper = styled.div`
   width: 100%;
   margin: 0 auto;
   padding: 0px 0 20px 0;
+  min-height: 100vh;
   @media (max-width: 768px) {
     width: 100%;
   }
