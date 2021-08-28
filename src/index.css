@@ -56,7 +56,7 @@ code {
 }
 
 .completed_task {
-  opacity: 50%;
+  color: darkgray;
   text-decoration: line-through;
 }
 
