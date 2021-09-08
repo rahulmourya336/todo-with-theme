@@ -1,4 +1,4 @@
-const ENDPOINT = `http://localhost:5000/`;
+const ENDPOINT = `https://todo-backend-101.herokuapp.com/`;
 const VERSION = `api/v1/`;
 
 export const BASE_URL = `${ENDPOINT}${VERSION}`;
