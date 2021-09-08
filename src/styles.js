@@ -70,15 +70,23 @@ export const HorizontalRule = styled.hr`
   padding: 10px;
 `;
 
+export const TodoContainer = styled.div`
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 2fr));
+  grid-gap: 10px;
+  overflow: hidden;
+  min-width: 0;
+  min-height: 0;
+`;
+
 export const TodoListWrapper = styled.div`
   display: flex;
   justify-content: space-between;
-  margin: 0px 0 20px 0;
   padding: 15px;
   align-items: center;
   border-radius: 10px;
   background: ${({ theme }) => theme.inputBG};
-  box-shadow: inset  0 100px ${({ theme }) => theme.actionButtonBG};
+  box-shadow: inset 0 100px ${({ theme }) => theme.actionButtonBG};
   color: ${({ theme }) => theme.text};
   word-break: break-all;
 `;
