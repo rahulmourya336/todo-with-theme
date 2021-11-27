@@ -18,4 +18,4 @@ ReactJS, NodeJS & MongoDB Atlas
 
 ### Hosted on
 ---
-[Netlify] (https://www.netlify.com/about/)
+[Netlify](https://www.netlify.com/about/)
