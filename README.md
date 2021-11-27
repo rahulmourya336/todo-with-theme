@@ -13,7 +13,7 @@ Refer `package.json` for more info.
 ### Built with
 ---
 ```
-ReactJS, NodeJS & MongoDB Atlas
+ReactJS, [NodeJS](https://github.com/rahulmourya336/todo-backend) & MongoDB Atlas
 ```
 
 ### Hosted on
