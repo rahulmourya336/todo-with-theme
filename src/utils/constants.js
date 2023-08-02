@@ -1,4 +1,4 @@
-const ENDPOINT = `https://todo-backend-101.herokuapp.com/`;
+const ENDPOINT = `https://todo-backend-3nya.onrender.com/`;
 const VERSION = `api/v1/`;
 
 export const BASE_URL = `${ENDPOINT}${VERSION}`;
